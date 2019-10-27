@@ -1,5 +1,5 @@
 ## get api key for weather https://openweathermap.org/api
-## also get api key for google maps, but its not necessary for developing mode
+## also get api key for google maps, but its not necessary for development mode
 
 # Task:
 Make React app that enables users to enter a city, then fetches its weather data from public API and shows it in a nice looking way.
